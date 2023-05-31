@@ -26,6 +26,8 @@ print(result,unans)
 ```
 OUTPUT:
 
+![image](https://github.com/Subalakshmisuresh/EX-7/assets/121957896/de87a719-a88d-4f90-9479-a90d366c96d4)
+
 RESULT:
 
 Thus, the python program for simulating Traceroute command was successfully executed
